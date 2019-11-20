@@ -1,3 +1,4 @@
-# Assignmet2
-## solution to assignment no 2 ICUP
-# by APEX
+# <center>Assignmet2</center>
+dependencies: jupyter notebook,pandas
+clone the repo and open solutions.ipynb on jupyter notebook
+
